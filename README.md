@@ -1,4 +1,4 @@
-gruvbox theme for [tdesktop](https://github.com/telegramdesktop/tdesktop) based on [morhetz/gruvbox](https://github.com/morhetz/gruvbox) with a touch of [gruvbox-material](https://github.com/sainnhe/gruvbox-material).
+[gruvbox](https://github.com/morhetz/gruvbox) theme for [tdesktop](https://github.com/telegramdesktop/tdesktop) with a touch of [gruvbox-material](https://github.com/sainnhe/gruvbox-material).
 
 ![Screenshot](./screenshot.png)
 

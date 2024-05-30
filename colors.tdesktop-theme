@@ -197,12 +197,12 @@ boxTitleCloseFgOver: smallCloseIconFgOver; // settings close icon and box search
 msgInBg: bg0_soft; // inbox message background
 msgInDateFg: fg4; // inbox message time text
 msgInShadow: windowShadowFg; // inbox message shadow (below the bubble)
-msgInMonoFg: bright_blue; // inbox message monospace text (like a message sent with `test` text)
+msgInMonoFg: fg4; // inbox message monospace text (like a message sent with `test` text)
 
 msgOutBg: bg2; // outbox message background
 msgOutDateFg: fg4; // outbox message time text
 msgOutShadow: windowShadowFg; // outbox message shadow (below the bubble)
-msgOutMonoFg: bright_blue; // outbox message monospace text
+msgOutMonoFg: fg4; // outbox message monospace text
 
 msgServiceFg: fg1; // service message text (like date dividers or service message about the group title being changed)
 msgServiceBg: bg1; // service message background (like in a service message about group title being changed) (adjusted)
@@ -399,3 +399,15 @@ sideBarBgActive: dialogsBgActive; // filters side bar active background
 sideBarTextFg: sideBarTextFg; // filters side bar text
 sideBarTextFgActive: windowActiveTextFg; // filters side bar active item text
 sideBarIconFgActive: windowActiveTextFg; // filters side bar active item icon
+
+statisticsChartLineBlue: bright_red; // syntax highlight: atrule, attr-value, keyword, function
+statisticsChartLineRed: bright_purple; // syntax highlight: property, tag, boolean, number, constant, symbol, deleted, operator, entity, url, punctuation
+statisticsChartLineOrange: bright_yellow; // syntax highlight: selector, attr-name, string, char, builtin, inserted
+statisticsChartLinePurple: bright_orange; // syntax highlight: class-name
+statisticsChartLineLightblue: neutral_gray; // syntax highlight: comment, block-comment, prolog, doctype, cdata
+
+statisticsChartLineGreen: neutral_green; // syntax highlight: none
+statisticsChartLineLightgreen: neutral_green; // syntax highlight: none
+statisticsChartLineGolden: neutral_yellow; // syntax highlight: none
+statisticsChartLineIndigo: neutral_purple; // syntax highlight: none
+statisticsChartLineCyan: neutral_aqua; // syntax highlight: none
